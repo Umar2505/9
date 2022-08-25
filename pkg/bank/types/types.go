@@ -20,6 +20,7 @@ type Card struct {
 	Color    string
 	Name     string
 	Active   bool
+	Number	 string
 }
 
 type PaymentSource struct {
